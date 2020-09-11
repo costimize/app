@@ -1,4 +1,4 @@
 contact_links:
   - name: Bug Report
     about: Create a report of the issue you've encountered.
-    url: https://github.com/costimize/app/issues/new?projects=costimize%2Fapp%2F1&assignees=&labels=bug&template=hidden%2Fbug_report.md&title=BUG%3A
+    url: https://github.com/costimize/app/issues/new?projects=costimize%2Fapp%2F1&assignees=&labels=bug&template=%2Fhidden%2Fbug_report.md&title=BUG%3A
