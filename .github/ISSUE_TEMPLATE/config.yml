@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 contact_links:
   - name: Bug Report
     about: Create a report of the issue you've encountered.
