@@ -3,6 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: 'BUG:'
 labels: bug
+projects: costimize%2Fapp%2F1
 assignees: ''
 
 ---
