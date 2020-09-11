@@ -1,0 +1,10 @@
+contact_links:
+  - name: Feature Request
+    about: Request a new feature
+    url: https://github.com/Narigo/some-project/issues/new?template=FEATURE_REQUEST.md&projects=Narigo%2Fsome-project%2F1&labels=%3Azap%3A%20new
+  - name: Bug Report
+    about: Create a report of the issue you've encountered.
+    url: https://github.com/Narigo/some-project/issues/new?template=BUG_REPORT.md&projects=Narigo%2Fsome-project%2F1&labels=%3Aant%3A%20bug
+  - name: Question
+    about: Ask a question about usage or anything
+    url: https://github.com/Narigo/some-project/issues/new?template=QUESTION.md&projects=Narigo%2Fsome-project%2F2&labels=%3Aquestion%3A%20question%2C%3Ashrug%3A%20support
